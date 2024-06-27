@@ -2,7 +2,7 @@
 
 1. Clone the repository with HTTPS:
 	```bash
-	git clone https://github.com/wwwacedo/docker-exemple.git
+	git clone https://github.com/wwwacedo/docker-example.git
 	```
 
 <br>
